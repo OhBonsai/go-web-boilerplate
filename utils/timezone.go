@@ -3,7 +3,7 @@ package utils
 import (
 	"io/ioutil"
 	"encoding/json"
-	"go-web-boilerplate/model"
+	"github.com/OhBonsai/go-web-boilerplate/model"
 )
 
 func LoadTimezones(fileName string) model.SupportedTimezones {

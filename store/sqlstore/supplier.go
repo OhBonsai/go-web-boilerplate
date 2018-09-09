@@ -1,14 +1,14 @@
 package sqlstore
 
 import (
-	"go-web-boilerplate/store"
-	"go-web-boilerplate/model"
+	"github.com/OhBonsai/go-web-boilerplate/store"
+	"github.com/OhBonsai/go-web-boilerplate/model"
 	"github.com/mattermost/gorp"
 	"github.com/mattermost/mattermost-server/einterfaces"
 	"fmt"
 	"time"
 	"os"
-	"go-web-boilerplate/mlog"
+	"github.com/OhBonsai/go-web-boilerplate/mlog"
 )
 
 const (

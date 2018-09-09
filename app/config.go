@@ -1,8 +1,8 @@
 package app
 
 import (
-	"go-web-boilerplate/model"
-	"go-web-boilerplate/utils"
+	"github.com/OhBonsai/go-web-boilerplate/model"
+	"github.com/OhBonsai/go-web-boilerplate/utils"
 )
 
 

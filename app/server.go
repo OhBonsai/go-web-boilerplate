@@ -4,8 +4,8 @@ import (
 	"net/http"
 	"net"
 	"context"
-	"go-web-boilerplate/store"
-	"go-web-boilerplate/mlog"
+	"github.com/OhBonsai/go-web-boilerplate/store"
+	"github.com/OhBonsai/go-web-boilerplate/mlog"
 	"github.com/gorilla/mux"
 	"time"
 )

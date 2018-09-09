@@ -5,7 +5,7 @@ import (
 	"crypto"
 	"net/url"
 	"html/template"
-	"go-web-boilerplate/model"
+	"github.com/OhBonsai/go-web-boilerplate/model"
 	"crypto/rand"
 	"encoding/base64"
 	"fmt"

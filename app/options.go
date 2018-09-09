@@ -1,6 +1,6 @@
 package app
 
-import "go-web-boilerplate/store"
+import "github.com/OhBonsai/go-web-boilerplate/store"
 
 type Option func(a *App)
 

@@ -1,17 +1,17 @@
 package app
 
 import (
-	"go-web-boilerplate/mlog"
+	"github.com/OhBonsai/go-web-boilerplate/mlog"
 	"sync/atomic"
-	"go-web-boilerplate/model"
+	"github.com/OhBonsai/go-web-boilerplate/model"
 	"github.com/gorilla/mux"
-	"go-web-boilerplate/utils"
-	"go-web-boilerplate/store"
+	"github.com/OhBonsai/go-web-boilerplate/utils"
+	"github.com/OhBonsai/go-web-boilerplate/store"
 	"net/http"
 	"fmt"
 	"crypto/ecdsa"
 	"github.com/mattermost/mattermost-server/einterfaces"
-	"go-web-boilerplate/store/sqlstore"
+	"github.com/OhBonsai/go-web-boilerplate/store/sqlstore"
 )
 
 type App struct {

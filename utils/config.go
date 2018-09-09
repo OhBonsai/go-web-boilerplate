@@ -3,8 +3,8 @@ package utils
 import (
 	"path/filepath"
 	"os"
-	"go-web-boilerplate/model"
-	"go-web-boilerplate/mlog"
+	"github.com/OhBonsai/go-web-boilerplate/model"
+	"github.com/OhBonsai/go-web-boilerplate/mlog"
 	"strings"
 	"github.com/fsnotify/fsnotify"
 	"io"

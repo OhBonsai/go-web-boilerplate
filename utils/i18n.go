@@ -2,8 +2,8 @@ package utils
 
 import (
 	"github.com/nicksnyder/go-i18n/i18n"
-	"go-web-boilerplate/model"
-	"go-web-boilerplate/mlog"
+	"github.com/OhBonsai/go-web-boilerplate/model"
+	"github.com/OhBonsai/go-web-boilerplate/mlog"
 	"fmt"
 	"io/ioutil"
 	"path/filepath"

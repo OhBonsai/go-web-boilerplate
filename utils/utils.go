@@ -1,7 +1,7 @@
 package utils
 
 import (
-	"go-web-boilerplate/model"
+	"github.com/OhBonsai/go-web-boilerplate/model"
 	"strings"
 	"net"
 	"net/http"
